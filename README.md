@@ -12,10 +12,14 @@ This type of internet voting would probably be used in addition to voting at tra
 
 ### *Potential Security Problems of current version*
 ---
-Insider attacks – hard to fully audit code, esp. if proprietary, closed source 
-Computer compromise – how can you guarantee the machines used to vote aren’t infected by vote-stealing viruses
+Insider attacks – hard to fully audit code, esp. if proprietary, closed source.
+
+Computer compromises – how can you guarantee the machines used to vote aren’t infected by vote-stealing viruses
+
 Network problems – how do you make sure Denial of Service attacks don’t take down network infrastructure or servers
+
 Server protection – easier as centralised and under direct govt control
+
 Public confidence – how do you convince voters that election was fair?
 ---
 ### Software
